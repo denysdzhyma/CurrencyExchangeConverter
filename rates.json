@@ -1,11 +1,9 @@
 {
    "latest":"Dec. 20, 2024",
    "base":"USD",
-   "rates":[
-      {
+   "rates": {
          "EUR":0.96,
          "GBP":0.80,
          "CAD":1.35
       }
-   ]
 }
