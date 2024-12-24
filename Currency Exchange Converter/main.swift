@@ -19,8 +19,6 @@ if let responseData = loadJSONFile(urlString: "https://raw.githubusercontent.com
     print("ERROR: Decoding JSON file failed.")
 }
 
-
-
 currencyOptions()
 
 if let currencyOptionsStr = readLine(), let currencyOptions = Int(currencyOptionsStr) {
